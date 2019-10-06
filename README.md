@@ -4,7 +4,7 @@ It can split an image sprite and use its splitted parts to randomly generate an 
 ![Demo](public/demo.gif)
 
 ### But why? 🤔
-Well... why not? It was a good way to learn about canvas, react-router and file uploading/downloading.
+Well... why not? It was a good way to learn about canvas and file uploading/downloading.
 
 ### Start the app 🚀
 ##### `npm start`
